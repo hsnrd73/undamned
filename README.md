@@ -1,2 +1,3 @@
 # undamned
-Code related to TTRPGs.  See individual files for descriptions.
+notebooks/ - Some code related to a Mana Point System
+character_sheets/ - Custom character sheets
